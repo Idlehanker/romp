@@ -1,0 +1,4 @@
+#dist dir
+build/
+.gradle/
+.DS_Store

@@ -1,0 +1,3 @@
+#dist dir
+build/
+.gradle/
